@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">موجه الصوت المزدوج</string>
+    <string name="notification_channel_name">بث البودكاست عبر البلوتوث (vivo Y05)</string>
+    <string name="notification_channel_desc">خدمة تشغيل مستمرة في الخلفية متوافقة مع OriginOS 6</string>
+    <string name="service_running_title">موجه الصوت المزدوج نشط</string>
+    <string name="service_running_subtitle">البودكاست مثبت على البلوتوث • يوتيوب على سماعة الهاتف</string>
+</resources>

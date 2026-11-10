@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the Split Audio Router & Podcast Player Android app tailored for vivo Y05 (Android 16 / OriginOS 6), featuring dual-stream routing (Bluetooth A2DP/BLE for local podcasts/music via Media3 ExoPlayer with Audio Focus bypass + Built-in Phone Speaker for YouTube via Mode A Global Speaker Override and Mode B Embedded YouTube WebView), Arabic RTL Dark Mode UI, Room persistence for playlists/bookmarks/resume positions, sleep timer, live Bluetooth route monitor, OriginOS 6 survival guide, and GitHub Actions APK build workflow.",
+  "updatedAt":  "2026-11-09T17:10:45.787618691Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

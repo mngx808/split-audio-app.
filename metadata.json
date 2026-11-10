@@ -1,0 +1,6 @@
+{
+  "name": "موجه الصوت المزدوج",
+  "description": "فصل مسار البودكاست والموسيقى على سماعة البلوتوث عن صوت يوتيوب على سماعة الهاتف الخارجية لجهاز vivo Y05 (Android 16 / OriginOS 6)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
